@@ -1,6 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Annual Academic Festival of Zhili College in 2023"
+excerpt: "Awarded the First Award for Academics, Zhili College<br/>
+Photographs taken during the poster presentation<br/>
+<img src='/images/festival_2023_1.jpg' style='max-width: 60%; height: auto; margin: 10px;' /> <br/>
+<img src='/images/festival_2023_2.jpg' style='max-width: 40%; height: auto; margin: 10px;' /> <br/>
+"
 collection: portfolio
 ---
 
