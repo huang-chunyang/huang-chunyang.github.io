@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chunyang Huang"
+title                    : "黄春阳"
 title_separator          : "-"
-name                     : &name "Chunyang Huang/Personal Homepage"
+name                     : &name "黄春阳/个人主页"
 description              : &description "personal description"
 url                      : https://huang-chunyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chunyang Huang"
+  name             : "黄春阳"
   avatar           : "profile.png"
   bio              : "Hi, welcome to my page!"
   location         : "Beijing, China"

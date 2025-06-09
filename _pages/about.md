@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth-year undergraduate student from [Zhili College](https://www.zlc.tsinghua.edu.cn/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/). I am very fortunate to be advised by [Prof. Shaoliang Zhang](https://www.thsports.tsinghua.edu.cn/info/1142/1783.htm) of Athletic Performance and Data Science Lab from [Division of Sports Science and Physical Education](https://www.thsports.tsinghua.edu.cn/index.htm), Tsinghua University. I was advised by [Prof. Yingcai Wu](http://www.ycwu.org/) from [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), Zhejiang University.
+我目前是一名量化研究员，研究领域为算法交易。本科毕业于 [清华大学](https://www.tsinghua.edu.cn/)[致理书院](https://www.zlc.tsinghua.edu.cn/index.htm)，数理基础科学专业。 
 
-My research interest includes sports analytics, The application of deep learning and machine learning in sports, scientific problems, and other real-world problems. 
+我的爱好是健身、力量举和旅游。最近对加密货币和MCP感兴趣。
 
-You can find my CV here: [Chunyang Huang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+如果你对我感兴趣，欢迎联系我。
 
-[Email](mailto:cy-huang20@mails.tsinghua.edu.cn) / [Github](https://github.com/huang-chunyang) 
+[邮箱](mailto:huangchunyang346@gmail.com) / [Github](https://github.com/huang-chunyang) / [领英](https://www.linkedin.com/in/chunyang-huang-53466a283) 
 
