@@ -4,7 +4,7 @@ title: "2025 清华力量举比赛"
 <img src='/images/2025_yingla.jpg' style='max-width: 40%; height: auto; margin: 10px;' /> <br/>
 <img src='/images/2025-wotui.jpg' style='max-width: 40%; height: auto; margin: 10px;' /> <br/>
 <img src='/images/2025_shendun.jpg' style='max-width: 40%; height: auto; margin: 10px;' /> <br/>
-"
+
 collection: portfolio
 ---
 

@@ -2,7 +2,7 @@
 title: "2025 新加坡之旅"
 旅行期间拍摄的照片<br/>
 <img src='/images/SG_2025.jpg' style='max-width: 40%; height: auto; margin: 10px;' /> <br/>
-"
+
 collection: portfolio
 ---
 
